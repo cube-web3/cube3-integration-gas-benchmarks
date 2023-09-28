@@ -4,7 +4,7 @@ This repository demonstrates the gas usage of a simple ERC20 integration that ut
 
 ## Disclaimer
 
-The contracts in this repo are for demonstration purposes only and are not fit for use in production. They were designed with the sole purpose of demonstrating the gas usage of a simple integration with the CUBE3 protocol.
+The contracts in this repo are for demonstration purposes only and are not fit for use in production. They were designed with the sole purpose of demonstrating the gas usage of a simple integration with the CUBE3 protocol. The demo contracts themselves have not been optimized for gas usage, as the intention is to demonstrate the gas usage of the protocol itself. Regardless of how efficient the integration contract's function logic is, the protocol's gas usage will remain the same - the only exception being the size of the function's calldata, which is covered in the sections that follow.
 
 ## CUBE3 Protocol Contracts
 
