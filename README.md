@@ -102,7 +102,7 @@ The difference between the `GBT` token with array lengths of `5`, and the `GBTP`
 
 The difference between the `GBT` token with array lengths of `5`, and the `GBTP` token with array lengths of 5, as well as function protection and nonce-tracking enabled, is `615,712 - 544,963 = 70,749`.
 
-The increase in calldata size from 10 array elements to 40 array elements adds and additional `65,613 - 70,749 = 5,136` gas to the transaction.
+The increase in calldata size from 10 array elements to 40 array elements adds and additional `70,749 - 65,613 = 5,136` gas to the transaction.
 
 ## Development
 
